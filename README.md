@@ -1,11 +1,11 @@
-<!-- Animated header -->
+<!-- Animated header (Mega Charizard X colors) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Fernando%20Vargas&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20SEO&descAlignY=58&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,55:0b1d3a,100:1e6fd9&height=190&section=header&text=Fernando%20Vargas&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20SEO&descAlignY=58&descSize=18" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Turning+data+into+decisions+%F0%9F%93%8A;Building+full-stack+apps+with+Next.js+%E2%9A%A1;Helping+Google+understand+your+site+%F0%9F%94%8D;From+Guanajuato%2C+Mexico+%F0%9F%87%B2%F0%9F%87%BD" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=A+wild+developer+appeared!;Turning+data+into+decisions+%F0%9F%93%8A;Building+full-stack+apps+with+Next.js+%E2%9A%A1;Helping+Google+understand+your+site+%F0%9F%94%8D;From+Guanajuato%2C+Mexico+%F0%9F%87%B2%F0%9F%87%BD" alt="Typing SVG" />
   </a>
 </p>
 
@@ -18,7 +18,7 @@
 
 ---
 
-## 👋 About me
+## <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="30" /> About me
 
 I'm **Fernando**, a data engineer and full-stack developer at **[Justia](https://www.justia.com)**, where code, data and SEO meet every day.
 
@@ -29,19 +29,57 @@ I'm **Fernando**, a data engineer and full-stack developer at **[Justia](https:/
 - ⌨️ Off the clock: I build **split mechanical keyboards** (Sofle + Cirque trackpad on ZMK).
 - 📍 Guanajuato, Mexico · 🇲🇽 Spanish / 🇺🇸 English
 
-```js
-const fernando = {
-  role: ["Data Engineer", "Full-Stack Developer", "SEO"],
-  currentlyAt: "Justia",
-  focus: ["data pipelines", "SEO tooling", "AI agents"],
-  hobby: "split keyboards ⌨️",
-  askMeAbout: ["Next.js", "Python", "technical SEO", "analytics"],
-};
-```
+<table align="center">
+  <tr>
+    <td align="center" width="170">
+      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/10034.gif" height="110" alt="Mega Charizard X" />
+    </td>
+    <td>
+<pre>
+POKÉDEX No. 0006-X
+
+FERNANDO
+The Data Dragon Pokémon
+
+TYPE     DATA / DRAGON
+REGION   Guanajuato, Mexico
+ABILITY  Pipeline Builder
+MOVES    Scrape · Query · Deploy · Rank
+
+Evolves messy spreadsheets into clean
+pipelines. Often seen tuning keyboards
+late at night.
+</pre>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🛠️ Stack
+## <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="30" /> My team
+
+<table align="center">
+  <tr>
+    <td align="center" width="130"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/10034.gif" height="80" /><br /><b>Mega Charizard X</b><br /><sub>Full-Stack</sub></td>
+    <td align="center" width="130"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/shiny/376.gif" height="80" /><br /><b>Metagross ✨</b><br /><sub>Analytics &amp; SQL</sub></td>
+    <td align="center" width="130"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/9.gif" height="80" /><br /><b>Blastoise</b><br /><sub>Data Pipelines</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="130"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/149.gif" height="80" /><br /><b>Dragonite</b><br /><sub>Technical SEO</sub></td>
+    <td align="center" width="130"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/384.gif" height="80" /><br /><b>Rayquaza</b><br /><sub>AI &amp; Agents</sub></td>
+    <td align="center" width="130"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/248.gif" height="80" /><br /><b>Tyranitar</b><br /><sub>Infra &amp; Docker</sub></td>
+  </tr>
+</table>
+
+<p align="center">
+  <sub>In the PC box:</sub>
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/254.gif" height="40" title="Sceptile" />
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/131.gif" height="40" title="Lapras" />
+</p>
+
+---
+
+## <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="30" /> Moveset
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,tailwind,postgres,mysql,docker,git,github,linux,vscode&perline=7" />
@@ -57,7 +95,7 @@ const fernando = {
 
 ---
 
-## 📈 Stats
+## <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="30" /> Trainer stats
 
 <p align="center">
   <img height="170" src="./profile-summary-card-output/tokyonight/3-stats.svg" />
@@ -74,14 +112,14 @@ const fernando = {
 
 ---
 
-## 📌 Featured projects
+## <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="30" /> Featured projects
 
 - 🎓 **[anuies-scraper](https://github.com/fernandovrz/anuies-scraper)** — Python scraper for Mexico's ANUIES higher-education data.
 <!-- More projects coming soon -->
 
 ---
 
-## 🐍 Contributions
+## <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="30" /> Contributions
 
 <p align="center">
   <picture>
@@ -91,5 +129,5 @@ const fernando = {
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e6fd9,45:0b1d3a,100:000000&height=110&section=footer" />
 </p>
