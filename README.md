@@ -1,11 +1,11 @@
-<!-- Header animado -->
+<!-- Animated header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Fernando%20Vargas&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20SEO&descAlignY=58&descSize=18" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Convierto+datos+en+decisiones+%F0%9F%93%8A;Construyo+apps+full-stack+con+Next.js+%E2%9A%A1;Hago+que+Google+entienda+tu+sitio+%F0%9F%94%8D;Desde+Guanajuato%2C+M%C3%A9xico+%F0%9F%87%B2%F0%9F%87%BD" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Turning+data+into+decisions+%F0%9F%93%8A;Building+full-stack+apps+with+Next.js+%E2%9A%A1;Helping+Google+understand+your+site+%F0%9F%94%8D;From+Guanajuato%2C+Mexico+%F0%9F%87%B2%F0%9F%87%BD" alt="Typing SVG" />
   </a>
 </p>
 
@@ -13,21 +13,21 @@
   <a href="https://seo-developers.com"><img src="https://img.shields.io/badge/seo--developers.com-0f172a?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" /></a>
   <a href="https://www.linkedin.com/in/TU_USUARIO_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:TU_CORREO"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=fernandovrz&style=for-the-badge&color=0f172a&label=VISITAS" />
+  <img src="https://komarev.com/ghpvc/?username=fernandovrz&style=for-the-badge&color=0f172a&label=PROFILE%20VIEWS" />
 </p>
 
 ---
 
-## 👋 Sobre mí
+## 👋 About me
 
-Soy **Fernando**, ingeniero de datos y desarrollador full-stack en **[Justia](https://www.justia.com)**, donde el código, los datos y el SEO se cruzan todos los días.
+I'm **Fernando**, a data engineer and full-stack developer at **[Justia](https://www.justia.com)**, where code, data and SEO meet every day.
 
-- 📊 **Data Engineering** — pipelines, scraping, tracking plans y analítica que sí se usa.
-- 🧑‍💻 **Full-Stack** — productos web con Next.js, React y Python.
-- 🔍 **SEO técnico** — creo herramientas para que los sitios rankeen mejor; escribo sobre eso en [seo-developers.com](https://seo-developers.com).
-- 🤖 Explorando **IA aplicada y agentes** para automatizar trabajo real.
-- ⌨️ Fuera del trabajo: armo **teclados mecánicos split** (Sofle + trackpad Cirque con ZMK).
-- 📍 Guanajuato, México · 🇲🇽 Español / 🇺🇸 English
+- 📊 **Data Engineering** — pipelines, scraping, tracking plans and analytics people actually use.
+- 🧑‍💻 **Full-Stack** — web products built with Next.js, React and Python.
+- 🔍 **Technical SEO** — I build tools that help sites rank better, and write about it at [seo-developers.com](https://seo-developers.com).
+- 🤖 Exploring **applied AI and agents** to automate real work.
+- ⌨️ Off the clock: I build **split mechanical keyboards** (Sofle + Cirque trackpad on ZMK).
+- 📍 Guanajuato, Mexico · 🇲🇽 Spanish / 🇺🇸 English
 
 ```js
 const fernando = {
@@ -57,11 +57,11 @@ const fernando = {
 
 ---
 
-## 📈 Estadísticas
+## 📈 Stats
 
 <p align="center">
-  <img height="170" src="https://TU-DEPLOY.vercel.app/api?username=fernandovrz&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=12" />
-  <img height="170" src="https://TU-DEPLOY.vercel.app/api/top-langs/?username=fernandovrz&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12" />
+  <img height="170" src="./profile-summary-card-output/tokyonight/3-stats.svg" />
+  <img height="170" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
 </p>
 
 <p align="center">
@@ -74,18 +74,14 @@ const fernando = {
 
 ---
 
-## 📌 Proyectos destacados
+## 📌 Featured projects
 
-<p align="center">
-  <a href="https://github.com/fernandovrz/anuies-scraper">
-    <img src="https://TU-DEPLOY.vercel.app/api/pin/?username=fernandovrz&repo=anuies-scraper&theme=tokyonight&hide_border=true&border_radius=12" />
-  </a>
-  <!-- Duplica este bloque para fijar más repos públicos -->
-</p>
+- 🎓 **[anuies-scraper](https://github.com/fernandovrz/anuies-scraper)** — Python scraper for Mexico's ANUIES higher-education data.
+<!-- More projects coming soon -->
 
 ---
 
-## 🐍 Mis contribuciones
+## 🐍 Contributions
 
 <p align="center">
   <picture>
