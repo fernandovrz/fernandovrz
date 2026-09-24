@@ -1,11 +1,11 @@
-<!-- Animated header (Mega Charizard X colors) -->
+<!-- Animated battle header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,55:0b1d3a,100:1e6fd9&height=190&section=header&text=Fernando%20Vargas&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20SEO&descAlignY=58&descSize=18" />
+  <img src="./assets/header.svg" width="100%" alt="Trainer Fernando sends out Mega Charizard X" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=A+wild+developer+appeared!;Turning+data+into+decisions+%F0%9F%93%8A;Building+full-stack+apps+with+Next.js+%E2%9A%A1;Helping+Google+understand+your+site+%F0%9F%94%8D;From+Guanajuato%2C+Mexico+%F0%9F%87%B2%F0%9F%87%BD" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Turning+data+into+decisions+%F0%9F%93%8A;Building+full-stack+apps+with+Next.js+%E2%9A%A1;Helping+Google+understand+your+site+%F0%9F%94%8D;From+Guanajuato%2C+Mexico+%F0%9F%87%B2%F0%9F%87%BD" alt="Typing SVG" />
   </a>
 </p>
 
