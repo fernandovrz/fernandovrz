@@ -31,24 +31,21 @@ I'm **Fernando**, a data engineer and full-stack developer at **[Justia](https:/
 
 <table align="center">
   <tr>
-    <td align="center" width="170">
+    <td align="center" width="230">
+      <img src="https://play.pokemonshowdown.com/sprites/trainers/red.png" height="110" alt="Trainer Fernando" />
       <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/10034.gif" height="110" alt="Mega Charizard X" />
     </td>
     <td>
 <pre>
-POKÉDEX No. 0006-X
+TRAINER CARD
 
-FERNANDO
-The Data Dragon Pokémon
-
-TYPE     DATA / DRAGON
-REGION   Guanajuato, Mexico
-ABILITY  Pipeline Builder
-MOVES    Scrape · Query · Deploy · Rank
-
-Evolves messy spreadsheets into clean
-pipelines. Often seen tuning keyboards
-late at night.
+NAME       Fernando Vargas
+ROLE       Data Engineer · Full-Stack Developer
+TEAM       Justia
+HOMETOWN   Guanajuato, Mexico
+SPECIALTY  Data pipelines · Technical SEO · AI agents
+PARTNER    Mega Charizard X
+BADGES     Python · Next.js · SQL · SEO
 </pre>
     </td>
   </tr>
