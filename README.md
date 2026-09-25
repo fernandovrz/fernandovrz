@@ -79,14 +79,15 @@ BADGES     Python · Next.js · SQL · SEO
 ## <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="30" /> Moveset
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,laravel,js,ts,react,nextjs,nodejs,tailwind,postgres,mysql,docker,git,github,linux,vscode&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,php,laravel,js,ts,react,nextjs,nodejs,tailwind,postgres,mysql,prisma,docker,aws,git,github,linux,vscode&perline=9" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Google%20Search%20Console-458CF5?style=flat-square&logo=googlesearchconsole&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white" />
   <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Tag%20Manager-246FDB?style=flat-square&logo=googletagmanager&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Ads-4285F4?style=flat-square&logo=googleads&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" />
 </p>
 
@@ -96,7 +97,6 @@ BADGES     Python · Next.js · SQL · SEO
 
 <p align="center">
   <img height="180" src="https://fernandovrz-github-readme-stats.vercel.app/api?username=fernandovrz&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&border_radius=12" />
-  <img height="180" src="https://fernandovrz-github-readme-stats.vercel.app/api/top-langs/?username=fernandovrz&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&border_radius=12" />
 </p>
 
 <p align="center">
