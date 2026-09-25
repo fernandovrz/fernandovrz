@@ -24,7 +24,7 @@ I'm **Fernando**, a data engineer and full-stack developer at **[Justia](https:/
 
 - 📊 **Data Engineering** — pipelines, scraping, tracking plans and analytics people actually use.
 - 🧑‍💻 **Full-Stack** — web products built with Next.js, React and Python.
-- 🔍 **Technical SEO** — I build tools that help sites rank better, and write about it at [seo-developers.com](https://seo-developers.com).
+- 🔍 **Technical SEO** — I build tools that help sites rank better.
 - 🤖 Exploring **applied AI and agents** to automate real work.
 - ⌨️ Off the clock: I build **split mechanical keyboards** (Sofle + Cirque trackpad on ZMK).
 - 📍 Guanajuato, Mexico · 🇲🇽 Spanish / 🇺🇸 English
@@ -79,7 +79,7 @@ BADGES     Python · Next.js · SQL · SEO
 ## <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="30" /> Moveset
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,tailwind,postgres,mysql,docker,git,github,linux,vscode&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,php,laravel,js,ts,react,nextjs,nodejs,tailwind,postgres,mysql,docker,git,github,linux,vscode&perline=7" />
 </p>
 
 <p align="center">
