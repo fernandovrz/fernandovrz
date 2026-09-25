@@ -96,7 +96,7 @@ BADGES     Python · Next.js · SQL · SEO
 ## <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="30" /> Trainer stats
 
 <p align="center">
-  <img height="180" src="https://fernandovrz-github-readme-stats.vercel.app/api?username=fernandovrz&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&border_radius=12" />
+  <img height="180" src="https://fernandovrz-github-readme-stats.vercel.app/api?username=fernandovrz&hide_rank=true&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&border_radius=12" />
 </p>
 
 <p align="center">
