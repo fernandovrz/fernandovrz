@@ -95,8 +95,8 @@ BADGES     Python · Next.js · SQL · SEO
 ## <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="30" /> Trainer stats
 
 <p align="center">
-  <img height="170" src="./profile-summary-card-output/tokyonight/3-stats.svg" />
-  <img height="170" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
+  <img height="180" src="https://fernandovrz-github-readme-stats.vercel.app/api?username=fernandovrz&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&border_radius=12" />
+  <img height="180" src="https://fernandovrz-github-readme-stats.vercel.app/api/top-langs/?username=fernandovrz&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&border_radius=12" />
 </p>
 
 <p align="center">
@@ -111,8 +111,12 @@ BADGES     Python · Next.js · SQL · SEO
 
 ## <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="30" /> Featured projects
 
-- 🎓 **[anuies-scraper](https://github.com/fernandovrz/anuies-scraper)** — Python scraper for Mexico's ANUIES higher-education data.
-<!-- More projects coming soon -->
+<p align="center">
+  <a href="https://github.com/fernandovrz/anuies-scraper">
+    <img src="https://fernandovrz-github-readme-stats.vercel.app/api/pin/?username=fernandovrz&repo=anuies-scraper&theme=tokyonight&hide_border=true&border_radius=12" />
+  </a>
+  <!-- Duplicate the <a> block above to pin more public repos -->
+</p>
 
 ---
 
