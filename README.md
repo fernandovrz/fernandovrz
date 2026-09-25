@@ -11,8 +11,8 @@
 
 <p align="center">
   <a href="https://seo-developers.com"><img src="https://img.shields.io/badge/seo--developers.com-0f172a?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" /></a>
-  <a href="https://www.linkedin.com/in/TU_USUARIO_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:TU_CORREO"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/fernando-vargas-rodr%C3%ADguez-41b744219/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:fervar2rodri@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=fernandovrz&style=for-the-badge&color=0f172a&label=PROFILE%20VIEWS" />
 </p>
 
